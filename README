@@ -3,8 +3,21 @@ This repository contains independent research documents authored by Xufen Tu.
 The materials include a primary research white paper and supporting appendices
 provided for reference and authorship continuity.
 
-Mirror / Index Repository (Non-Canonical)
-This repository hosts a mirrored copy of selected independent research materials (whitepaper + appendices) for accessibility and redundancy.
-Canonical citation source: https://github.com/xufentu-creator/judgment-as-structural-constraint
+# Mirror / Verification Repository (Non-Canonical)
 
-This repository should not be cited as the primary authority.
+## Purpose
+This repository contains a **mirrored copy** of selected independent research materials (whitepaper + appendices).
+It exists for:
+- redundancy / backup,
+- convenient access,
+- verification.
+
+## Canonical authority (Citation required)
+✅ The **ONLY canonical source for citation and provenance** is:
+https://github.com/xufentu-creator/judgment-as-structural-constraint
+
+## Citation rule
+❌ This repository is **NOT** the authoritative reference.
+❌ Do **NOT** cite this repository as the primary source in any publication, repost, derivative work, or metadata.
+✅ Always cite the canonical repository above (and the relevant tag/release).
+
