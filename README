@@ -1,23 +1,34 @@
-This repository contains independent research documents authored by Xufen Tu.
+Xufen Tu — Independent Research Materials (Mirror)
 
-The materials include a primary research white paper and supporting appendices
-provided for reference and authorship continuity.
+Status: Mirror / verification repository (non-canonical)
 
-# Mirror / Verification Repository (Non-Canonical)
+This repository provides a mirrored copy of selected independent research materials (whitepaper + appendices) for access, redundancy, and verification.
 
-## Purpose
-This repository contains a **mirrored copy** of selected independent research materials (whitepaper + appendices).
-It exists for:
-- redundancy / backup,
-- convenient access,
-- verification.
+Historical note
 
-## Canonical authority (Citation required)
-✅ The **ONLY canonical source for citation and provenance** is:
+This repository hosted the author’s earlier public release of the whitepaper and appendices.
+For long-term provenance integrity and stable citation, the canonical authority has been consolidated to the repository below.
+
+Canonical citation source (required)
+
+The ONLY canonical source for citation and provenance is:
 https://github.com/xufentu-creator/judgment-as-structural-constraint
 
-## Citation rule
-❌ This repository is **NOT** the authoritative reference.
-❌ Do **NOT** cite this repository as the primary source in any publication, repost, derivative work, or metadata.
-✅ Always cite the canonical repository above (and the relevant tag/release).
+Citation rule
+
+This repository is NOT the authoritative reference.
+Do NOT cite this repository as the primary source in any publication, repost, derivative work, or metadata.
+Always cite the canonical repository above (and the relevant tag/release).
+
+Provenance timestamps
+
+Provenance timestamps are recorded by GitHub commit history and release/tag metadata.
+
+Contents
+
+Structural Cognition and Future Human Systems — Whitepaper
+
+Appendix A — Methodological Foundation
+
+Appendix B — Authorship and Identity Verification
 
